@@ -5,7 +5,7 @@
 <div style="margin-bottom: 200px;"></div>
 <img align="center" alt="Coding" width="1000" src="https://github.com/licarin/images/blob/main/mario-working.gif">
 
-<samp>📫 Reach me at Billy.timoti@gmail.com</samp>
+<samp>📫 Reach me at Billy.timotius926@gmail.com</samp>
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
