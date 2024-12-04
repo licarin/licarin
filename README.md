@@ -1,5 +1,5 @@
 <h2 align="center"><samp>Hi 👋 I'm Billy T</samp></h2>
-<h3 align="center"><samp>undegraduate student</samp> </h3>
+<h3 align="center"><samp>Just an ordinary student who focused on software development</samp> </h3>
 
 
 <div style="margin-bottom: 200px;"></div>
