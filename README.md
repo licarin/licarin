@@ -62,7 +62,7 @@
       </a>
     </td>
       <td align="center" width="100">
-        <a href="https://https://x.com/ykmbni" target="_blank" style="text-decoration: none; color: inherit;">
+        <a href="https://x.com/ykmbni" target="_blank" style="text-decoration: none; color: inherit;">
           <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
          <br>X
         </a>
