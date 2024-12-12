@@ -55,9 +55,11 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-   <td align="center" width="100">
+    <td align="center" width="100">
+      <a href="https://www.linkedin.com/in/bill-timotius-9b0068341" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
-      <br>Linkedin
+        <br>Linkedin
+      </a>
     </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
