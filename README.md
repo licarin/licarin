@@ -62,11 +62,13 @@
       </a>
     </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
-      <br>X
-    </td>
-  </tr>
-</table>
+        <a href="https://https://x.com/ykmbni" target="_blank" style="text-decoration: none; color: inherit;">
+          <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
+         <br>X
+        </a>
+      </td>
+    </tr>
+  </table>
 <br><br>
 </div>
 
