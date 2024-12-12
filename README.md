@@ -56,7 +56,7 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/bill-timotius-9b0068341" target="_blank">
+      <a href="https://www.linkedin.com" target="_blank" style="text-decoration: none; color: inherit;">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
         <br>Linkedin
       </a>
